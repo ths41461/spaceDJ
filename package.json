@@ -1,0 +1,25 @@
+{
+  "name": "copy-of-spacedj",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lit": "^3.3.0",
+    "@google/genai": "^1.0.0",
+    "three": "^0.178.0",
+    "umap-js": "^1.4.0",
+    "@material/web": "^2.3.0",
+    "react": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
